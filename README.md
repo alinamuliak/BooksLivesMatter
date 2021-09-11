@@ -12,4 +12,13 @@ With this application, the user will be able to get books within a few minutes t
 
 To use the programm simply start by launching **main_programm** function.
 
-Demonstration of the program operation process:
+
+**Demonstration of the program operation process:******
+
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/1.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/2.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/3.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/4.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/5.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/6.jpg)
+![](https://github.com/alinamuliak/BooksLivesMatter/blob/main/images/7.jpg)
