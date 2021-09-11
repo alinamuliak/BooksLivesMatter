@@ -11,3 +11,5 @@ The user has the opportunity to get information about> = 5 books of the desired 
 With this application, the user will be able to get books within a few minutes that are likely to interest him, and even read their brief description or rating points. _It will simplify the procces of long searching for some book._ In that way,it will help increase the number of people interested in reading and help maintain an interest in reading books that suit everyone.
 
 To use the programm simply start by launching **main_programm** function.
+
+Demonstration of the program operation process:
